@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325293481684",
+    "project_id": "idriver-46e1f",
+    "storage_bucket": "idriver-46e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325293481684:android:5451b3c8dbf72e03806541",
+        "android_client_info": {
+          "package_name": "com.example.taxi_vert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbb6vLUgAZNhjK2MzJv2UWYKepIDobnGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

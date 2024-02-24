@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAFeXwZiboXT3Wfvb7cRIBo_m_AD3n3S1Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>325293481684</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.taxiVert.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>idriver-46e1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>idriver-46e1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:325293481684:ios:17a2d435aea4b76d806541</string>
+</dict>
+</plist>
